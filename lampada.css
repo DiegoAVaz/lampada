@@ -1,0 +1,10 @@
+#lampada{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#lampada img{
+    height: 300px;
+    padding: 50px;
+}
