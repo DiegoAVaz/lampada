@@ -7,7 +7,7 @@ function ligaDesliga(filename){
 
     } else {
         document.querySelector('.text').innerHTML = 'Você queimou a lâmpada'
-        document.querySelector('.imagem').setAttribute('src','imagens/'+'desligada.png')
+        document.querySelector('.imagem').setAttribute('src', '/imagens/sadLamp.jpg')
     }
 }
 
